@@ -1,5 +1,4 @@
-# TooSweet
-*An app that catches early signs of diabetes*
+# TooSweet *A webapp that catches early signs of diabetes*
 
 ## Inspiration
 The growing population of diabetic patients inspired the project. Many of them could have been prevented if they knew what to look out for. Today, 96 million people aged 18 years or older have prediabetes (38.0% of the adult US population) (src: https://www.cdc.gov/diabetes/data/statistics-report/index.html)

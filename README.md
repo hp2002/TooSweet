@@ -1,7 +1,7 @@
 # TooSweet - *A webapp that catches early signs of diabetes*
 
 ## Inspiration
-The growing population of diabetic patients inspired the project. Many of them could have been prevented if they knew what to look out for. Today, 96 million people aged 18 years or older have prediabetes (38.0% of the adult US population)[source]( https://www.cdc.gov/diabetes/data/statistics-report/index.html)
+The growing population of diabetic patients inspired the project. Many of them could have been prevented if they knew what to look out for. Today, 96 million people aged 18 years or older have prediabetes (38.0% of the adult US population) ([source]( https://www.cdc.gov/diabetes/data/statistics-report/index.html))
 
 ## What it does
 The app uses an AI model to predict prediabetes and show how accurate the AI model is with the set of test samples from the dataset. It does so by asking a series of questions to the user and making predictions accordingly. For an individual, it is easy to overlook the correlation between the symptoms mentioned in the survey and diabetes, which is where the app is helpful!

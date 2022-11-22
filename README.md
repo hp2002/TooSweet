@@ -1,4 +1,7 @@
-![too](https://user-images.githubusercontent.com/69314416/203291311-de29453f-8266-482a-8fad-73eaafc4ba35.png)
+
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/69314416/203291311-de29453f-8266-482a-8fad-73eaafc4ba35.png">
+</p>
 
 # TooSweet - *A webapp that catches early signs of diabetes*
 

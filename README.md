@@ -1,9 +1,10 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69314416/203291311-de29453f-8266-482a-8fad-73eaafc4ba35.png">
+  # TooSweet - *A webapp that catches early signs of diabetes*
 </p>
 
-# TooSweet - *A webapp that catches early signs of diabetes*
+
 
 ## Inspiration
 The growing population of diabetic patients inspired the project. Many of them could have been prevented if they knew what to look out for. Today, 96 million people aged 18 years or older have prediabetes (38.0% of the adult US population) ([source]( https://www.cdc.gov/diabetes/data/statistics-report/index.html))

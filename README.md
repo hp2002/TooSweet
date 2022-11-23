@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69314416/203291311-de29453f-8266-482a-8fad-73eaafc4ba35.png">
 </p>
-<p align="center">
-# TooSweet - *A webapp that catches early signs of diabetes*
+<p align="center" style="font-size:40px">
+  TooSweet - *A webapp that catches early signs of diabetes*
 </p>
 
 

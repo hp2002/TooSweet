@@ -30,3 +30,5 @@ The python library streamlit was a new endeavor for both of us. We quickly learn
 ## What's next for TooSweet
 Next, we can collaborate with multiple hospitals across the country and use their datasets anonymously to train the AI model. This would further increase the accuracy of the model and help us find other factors that may contribute to pre-diabetes. We could use the Google Health API to upload the project and make it compute on the cloud which, would make it significantly safer to use. There are many other medical conditions that show early symptoms. With enough data, we could streamline and look out for some of the other medical conditions simultaneously, leading to early prevention of these conditions, and helping us have healthier lifestyles for all of us!
 
+## Dataset
+src: https://www.kaggle.com/datasets/andrewmvd/early-diabetes-classification
